@@ -1,5 +1,28 @@
 # 💫 About Me:
-Full Stack Developer with expertise in Node.js, NestJS, and Go (Golang).<br>Skilled in building scalable REST APIs, microservices, JWT-secured backends, and financial-grade ledger systems.<br>Experienced with PostgreSQL, Docker, Cloudinary, API Gateways, and automated workflows.<br>Passionate about clean architecture, security-first engineering, and reliable automation.
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">
+My name is <b>Jitin</b> and I'm a <b>Full-Stack Developer, DevOps Enthusiast</b> from <b>India</b>.
+</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+<p align="left">
+📚 I'm currently learning: <b>DevOps</b> <br>
+🎯 Goals: <b>Build good SaaS products for developers</b> <br>
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,fastapi,go,mongodb,postgres,git,docker,kubernetes,linux,aws&perline=8" />
+</div>
+
 
 
 ## 🌐 Socials:
